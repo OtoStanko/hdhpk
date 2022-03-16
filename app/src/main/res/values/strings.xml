@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">hdhpk</string>
+    <string name="Pick_a_character">Pick a character</string>
+    <string name="druid">DRUID</string>
+    <string name="fighter">FIGHTER</string>
+    <string name="initialFragmentText" />
+</resources>
